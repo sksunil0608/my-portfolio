@@ -265,15 +265,7 @@ export const Full_stack = [
 ];
 
 export const WorkExperience = [
-  {
-    company: "Sharpener Training",
-    src: "/sharpener.png",
-    alt: "Sharpener Training",
-    description: "",
-    from: "July, 2023",
-    to: "Present",
-    position: "Backend Developer"
-  },
+
   {
     company: "SRC Cyber Solution",
     src: "/srccyber.png",
@@ -284,15 +276,6 @@ export const WorkExperience = [
     position: "Website Developer"
   },
   {
-    company: "BlackCoffer",
-    src: "/blackcoffer.jpg",
-    alt: "Blackcoffer",
-    description: "",
-    from: "October, 2022",
-    to: "December, 2022",
-    position: "Associate Software Developer Intern"
-  },
-  {
     company: "CoderSoftech",
     src: "/codersoftech.webp",
     alt: "Codersoftech",
@@ -300,15 +283,6 @@ export const WorkExperience = [
     from: "February, 2022",
     to: "October, 2022",
     position: "Associate Website Developer"
-  },
-  {
-    company: "Clickites",
-    src: "/clickites.png",
-    alt: "Clickites",
-    description: "",
-    from: "December, 2021",
-    to: "February, 2022",
-    position: "SEO Strategist"
   },
 ];
 
